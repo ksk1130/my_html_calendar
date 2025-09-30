@@ -79,6 +79,11 @@ const calendarEvents = [
     start: '2025-11-23',
     allDay: true,
   },
+  {
+    title: '振替休日',
+    start: '2025-11-24',
+    allDay: true,
+  },
   // 2026年の祝日
   {
     title: '元日',
