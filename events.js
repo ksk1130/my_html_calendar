@@ -20,6 +20,11 @@ const calendarEvents = [
     allDay: true,
   },
   {
+    title: '振替休日',
+    start: '2025-02-24',
+    allDay: true,
+  },
+  {
     title: '春分の日',
     start: '2025-03-20',
     allDay: true,
@@ -42,6 +47,11 @@ const calendarEvents = [
   {
     title: 'こどもの日',
     start: '2025-05-05',
+    allDay: true,
+  },
+  {
+    title: '振替休日',
+    start: '2025-05-06',
     allDay: true,
   },
   {
@@ -131,6 +141,11 @@ const calendarEvents = [
     allDay: true,
   },
   {
+    title: '振替休日',
+    start: '2026-05-06',
+    allDay: true,
+  },
+  {
     title: '海の日',
     start: '2026-07-20',
     allDay: true,
@@ -143,6 +158,11 @@ const calendarEvents = [
   {
     title: '敬老の日',
     start: '2026-09-21',
+    allDay: true,
+  },
+  {
+    title: '振替休日',
+    start: '2026-09-22',
     allDay: true,
   },
   {
